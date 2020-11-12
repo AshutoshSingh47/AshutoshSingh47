@@ -11,5 +11,4 @@
 <a href="https://dev.to/ashutoshsingh47">
 <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ashutosh Singh's DEV Profile" height="30" width="30">
 </a>
-<font> Member Of Dev Community</font>
 </h3>
